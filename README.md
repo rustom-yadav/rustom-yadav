@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- I'm a <b>Full-Stack Developer (MERN + Next.js)</b> and <b>Generative & Agentic AI Developer</b>. I specialize in building scalable web applications, optimizing performance, and integrating modern AI solutions into robust backend systems.
+ I'm a <b>Full Stack Web Developer</b> and <b>Generative & Agentic AI Developer</b>. I specialize in building scalable web applications, optimizing performance, and integrating modern AI solutions into robust backend systems.
 </p>
 
 <p align="center">
@@ -30,6 +30,8 @@
 **Concepts:** System Design, Microservices, CI/CD, Caching, Rate Limiting, Async/Await  
 **DevOps & Tools:** Git, Docker, GitHub Actions, AWS, Vercel, Render, Postman  
 **OS:** Windows, Mac, Linux  
+**Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability, Time Management, Hindi, English
+
 
 <br/>
 
@@ -71,8 +73,8 @@
 
 - ✅ **Full Stack Generative AI and Agentic AI with Python** (Udemy)
 - ✅ **Frontend Development Libraries and Frameworks** (freeCodeCamp)
-- ✅ **JavaScript Algorithms & Data Structures** (freeCodeCamp)
-- ✅ **Responsive Web Design** (freeCodeCamp)
+- ✅ **JavaScript Algorithms & Data Structures** [freeCodeCamp](https://www.freecodecamp.org/certification/rustom_yadav/javascript-v9)
+- ✅ **Responsive Web Design** [freeCodeCamp](https://www.freecodecamp.org/certification/rustom_yadav/responsive-web-design-v9)
 
 ---
 
@@ -87,6 +89,6 @@
 
 <div align="center">
 
-> *"I believe that being a college dropout didn't stop my learning; it just changed my classroom to the entire internet."* 🚀
+> **_"I believe that being a college dropout didn't stop my learning; it just changed my classroom to the entire internet."_** 🚀
 
 </div>
