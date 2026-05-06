@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
- I'm a <b>Full Stack Web Developer</b> and <b>Generative & Agentic AI Developer</b>. I specialize in building scalable web applications, optimizing performance, and integrating modern AI solutions into robust backend systems.
+ I am a <b>Software Engineer and system architecture enthusiast</b> with a focus on building scalable web ecosystems. My technical foundation is built on <b>Next.js, MERN, and FastAPI</b>, complemented by a deep specialization in <b>Generative & Agentic AI</b>. I thrive on rapidly adapting to new technologies to design intelligent, autonomous workflows and architect high-performance <b>backends</b> that drive real-world impact.
 </p>
 
 <p align="center">
