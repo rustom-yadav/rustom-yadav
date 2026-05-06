@@ -89,6 +89,6 @@
 
 <div align="center">
 
-> **_"I believe that being a college dropout didn't stop my learning; it just changed my classroom to the entire internet."_** 🚀
+> <mark>**_"I believe that being a college dropout didn't stop my learning; it just changed my classroom to the entire internet."_**</mark> 🚀
 
 </div>
