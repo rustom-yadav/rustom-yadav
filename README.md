@@ -54,7 +54,7 @@
 
 <br/>
 
-📹 **[Video Streaming Backend API](https://github.com/Rustom-yadav/rustom-backend-project)**  
+📹 **[Video Streaming Backend API](https://github.com/rustom-yadav/rustom-backend-project)**  
 **Tech Stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT  
 - Built scalable REST APIs using Node.js and Express, implementing JWT authentication and secure routing.
 - Improved overall API response time by ~20% through efficient MongoDB schema design and error handling.
