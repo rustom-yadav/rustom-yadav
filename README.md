@@ -27,7 +27,7 @@
 **Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT Authentication  
 **Databases & Services:** PostgreSQL, MongoDB, Qdrant, Cloudinary, Nodemailer, Razorpay  
 **AI Integration:** Ollama, LLAMA, OpenAI, Gemini, Grok, RAG, LangChain, LangGraph, MCP Server  
-**Concepts:** System Design, Microservices, CI/CD, Caching, Rate Limiting, Async/Await  
+**Concepts:** Basic System Design, CI/CD, Caching, Rate Limiting, Async/Await  
 **DevOps & Tools:** Git, Docker, GitHub Actions, AWS, Vercel, Render, Postman  
 **OS:** Windows, Mac, Linux  
 **Soft Skills:** Communication, Teamwork, Problem-solving, Adaptability, Time Management, Hindi, English
@@ -44,20 +44,20 @@
 ### 🚀 Featured Projects
 
 🎓 **[Mentovara - Full Stack EdTech Platform](https://mentovara.vercel.app)**  
-**Tech Stack:** Next.js, Node.js, MongoDB, Docker, GitHub Actions, Razorpay, Nodemailer  
+**Tech Stack:** Next.js, Node.js, Express, MongoDB, Docker, GitHub Actions, Razorpay, Nodemailer  
 - Developed a highly scalable full-stack EdTech platform featuring course creation, video streaming, and progress tracking.
 - Containerized the application components using Docker to ensure consistent local development and reliable production deployments.
 - Implemented an automated CI/CD pipeline leveraging GitHub Actions for seamless testing and deployment workflows.
 - Integrated Razorpay payment gateway with full webhook support for robust and automated enrollment fulfillment.
 - Engineered REST APIs with secure JWT-based authentication and a built-in SMTP login system using Nodemailer.
-- Optimized backend performance by reducing database calls by ~30% and efficiently resolving CORS and media upload bottlenecks.
+- Optimized backend performance by reducing database calls and efficiently resolving CORS and media upload bottlenecks.
 
 <br/>
 
 📹 **[Video Streaming Backend API](https://github.com/rustom-yadav/rustom-backend-project)**  
 **Tech Stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT  
 - Built scalable REST APIs using Node.js and Express, implementing JWT authentication and secure routing.
-- Improved overall API response time by ~20% through efficient MongoDB schema design and error handling.
+- Improved overall API response time through efficient MongoDB schema design and error handling.
 - Integrated Cloudinary for seamless and optimized media handling and storage.
 
 <br/>
@@ -69,10 +69,24 @@
 
 ---
 
+### 🤝 Open Source Contributions
+
+#### ✅ Merged Pull Requests
+
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67537)** — fix(client): add support for editable regions in TypeScript and TSX files
+#67537
+- **[Sentri](https://github.com/SahilKumar75/Sentri/pull/105)** — Smoke Test Guide and Checklist added in smoke-test-doc.md file
+#105
+
+
+---
+
 ### 📜 Certifications
 
-- ✅ **Full Stack Generative AI and Agentic AI with Python** (Udemy)
-- ✅ **Frontend Development Libraries and Frameworks** (freeCodeCamp)
+- ✅ **Full Stack Generative AI and Agentic AI with Python** [Udemy](https://ude.my/UC-441f8c4e-c0fd-4cc4-8e1c-b0f3102c29fe
+)
+- ✅ **Frontend Development Libraries and Frameworks** [freeCodeCamp](https://www.freecodecamp.org/certification/rustom_yadav/javascript-v9
+)
 - ✅ **JavaScript Algorithms & Data Structures** [freeCodeCamp](https://www.freecodecamp.org/certification/rustom_yadav/javascript-v9)
 - ✅ **Responsive Web Design** [freeCodeCamp](https://www.freecodecamp.org/certification/rustom_yadav/responsive-web-design-v9)
 
