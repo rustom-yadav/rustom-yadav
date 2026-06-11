@@ -36,7 +36,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,nextjs,redux,tailwind,bootstrap,html,css,nodejs,express,fastapi,mongodb,postgres,docker,aws,git,github,vercel,postman&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,ts,react,nextjs,html,css,nodejs,express,fastapi,mongodb,mysql,docker,aws,git,github,postman,windows,linux,apple&perline=10" alt="Skills" />
 </p>
 
 ---
