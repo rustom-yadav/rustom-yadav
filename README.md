@@ -22,11 +22,11 @@
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages:** JavaScript, Python  
+**Languages:** JavaScript, TypeScript, Python  
 **Frontend:** React.js, Next.js, Redux Toolkit, ShadCN UI, HTML5, CSS3, Tailwind CSS, Bootstrap  
 **Backend:** Node.js, Express.js, FastAPI, REST APIs, JWT Authentication  
-**Databases & Services:** PostgreSQL, MongoDB, Qdrant, Cloudinary, Nodemailer, Razorpay  
-**AI Integration:** Ollama, LLAMA, OpenAI, Gemini, Grok, RAG, LangChain, LangGraph, MCP Server  
+**Databases & Services:** MySQL, MongoDB, Qdrant, Cloudinary, Nodemailer, Razorpay  
+**AI Integration:** Ollama, Hugging Face, RAG, LangChain, LangGraph, MCP Server, Embeddings, Vector Databases  
 **Concepts:** Basic System Design, CI/CD, Caching, Rate Limiting, Async/Await  
 **DevOps & Tools:** Git, Docker, GitHub Actions, AWS, Vercel, Render, Postman  
 **OS:** Windows, Mac, Linux  
