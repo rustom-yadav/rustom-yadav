@@ -73,10 +73,10 @@
 
 #### ✅ Merged Pull Requests
 
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67537)** — fix(client): add support for editable regions in TypeScript and TSX files
-#67537
-- **[Sentri](https://github.com/SahilKumar75/Sentri/pull/105)** — Smoke Test Guide and Checklist added in smoke-test-doc.md file
-#105
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67537)** — fix(client): add support for editable regions in TypeScript and TSX files #67537
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67782)** — fix(curriculum): audit editable regions for reusable mega navbar #67782
+- **[llm_engineering](https://github.com/ed-donner/llm_engineering/pull/3232)** — Build Resume Builder Agent for Week 1 Exercise #3232
+- **[Sentri](https://github.com/SahilKumar75/Sentri/pull/105)** — Smoke Test Guide and Checklist added in smoke-test-doc.md file #105
 
 
 ---
