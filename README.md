@@ -103,11 +103,3 @@
 - ✅ **Responsive Web Design** [freeCodeCamp](https://www.freecodecamp.org/certification/rustom_yadav/responsive-web-design-v9)
 
 ---
-
-
-
-<div align="center">
-
-> <mark>**_"I believe that being a college dropout didn't stop my learning; it just changed my classroom to the entire internet."_**</mark> 🚀
-
-</div>
