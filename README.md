@@ -64,23 +64,6 @@
 - Engineered REST APIs with secure JWT-based authentication and a built-in SMTP login system using Nodemailer.
 - Optimized backend performance by reducing database calls and efficiently resolving CORS and media upload bottlenecks.
 
-<br/>
-
-📹 **[Video Streaming Platform Backend API](https://github.com/rustom-yadav/rustom-backend-project)**  
-**Tech Stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT  
-**Live:** [rustom-backend-project.onrender.com](https://rustom-backend-project.onrender.com)  
-- Built scalable REST APIs using Node.js and Express, implementing JWT authentication and secure routing.
-- Improved overall API response time through efficient MongoDB schema design and error handling.
-- Integrated Cloudinary for seamless and optimized media handling and storage.
-
-<br/>
-
-💻 **[Next.js Developer Portfolio](https://github.com/rustom-yadav/rustom-portfolio)**  
-**Tech Stack:** Next.js, Tailwind CSS  
-**Live:** [rustom-portfolio.vercel.app](https://rustom-portfolio.vercel.app)  
-- Architected a responsive, high-performance UI using Next.js and Tailwind CSS.
-- Added dynamic project showcases and seamless theme switching capabilities.
-
 ---
 
 ### 🤝 Open Source Contributions
