@@ -42,6 +42,16 @@
 
 ---
 
+### 💼 Experience
+
+**Full Stack Developer Intern**  
+*Site Guru Pvt. Ltd. — Remote* | *July 2026 – Present*  
+**Tech Stack:** Vue.js, Node.js, Express.js, MySQL  
+- Independently architected a multi-organization SaaS ERP platform for the poultry industry — defined project scope, designed system architecture, and implemented layered authorization (role/permission-based access + org-level module gating) as the sole engineer.
+- Optimized MySQL queries for multi-tenant data, introduced frontend API caching, and delivered features across multiple client projects with active code review participation.
+
+---
+
 ### 🚀 Featured Projects
 
 🛡️ **[Privacy-First Chatbot](https://github.com/rustom-yadav/privacy-first-chatbot)**  
@@ -69,11 +79,11 @@
 ### 🤝 Open Source Contributions
 
 #### ✅ Merged Pull Requests
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/68279)** — feat(curriculum): add workshop for Python functions #68279
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67537)** — fix(client): add support for editable regions in TypeScript and TSX files #67537
-- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67782)** — fix(curriculum): audit editable regions for reusable mega navbar #67782
-- **[llm_engineering](https://github.com/ed-donner/llm_engineering/pull/3232)** — Build Resume Builder Agent for Week 1 Exercise #3232
-- **[Sentri](https://github.com/SahilKumar75/Sentri/pull/105)** — Smoke Test Guide and Checklist added in smoke-test-doc.md file #105
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/68279)** — Created a **Python Functions workshop** with 17 challenge steps empowering **millions of global learners** with interactive, hands-on coding exercises.
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67537)** — Enhanced the platform's learning environment by adding support for editable coding regions in TypeScript/TSX files and auditing UI components.
+- **[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/67782)** - Audited and fixed editable regions across the reusable mega-navbar curriculum module.
+- **[llm_engineering](https://github.com/ed-donner/llm_engineering/pull/3232)** — Built an AI-powered Resume Builder Agent as part of the course curriculum.
+- **[Sentri](https://github.com/SahilKumar75/Sentri/pull/105)** — Authored a comprehensive Smoke Test Guide and Checklist to streamline quality assurance testing.
 
 
 ---
